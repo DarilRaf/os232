@@ -5,3 +5,5 @@ ZCZC W00 100 L02 Zoom Class
 ZCZC W00 20 L03 Github Setup
 ZCZC W00 20 L10 Completing Assisgnment #00
 ZCZC W00 60 L70 Reading other course's materials
+ZCZC W01 99 L11 Completing Assignment #01
+
