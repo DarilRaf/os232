@@ -6,4 +6,4 @@ ZCZC W00 20 L03 Github Setup
 ZCZC W00 20 L10 Completing Assisgnment #00
 ZCZC W00 60 L70 Reading other course's materials
 ZCZC W01 99 L11 Completing Assignment #01
-
+ZCZC W01 30 L04 Setup index.md and links.md for GHPages
