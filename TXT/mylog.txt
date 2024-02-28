@@ -10,3 +10,4 @@ ZCZC W01 30 L04 Setup index.md and links.md for GHPages
 ZCZC W02 99 L12 Completing Assignment #02
 ZCZC W02 10 L83 Feeding my hamsters..
 ZCZC W02 20 L04 Added some more links to links.md
+ZCZC W03 40 L13 Completing Assignment #03
