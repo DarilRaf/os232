@@ -4,6 +4,7 @@ permalink: LINKS/
 
 # LINKS
 
+<h2>Week 01</h2>
 * [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4) ---
 This video introduce me to the world of terminal text editor!
 It dives in on how to use the <b>vim</b> text editor.
@@ -11,6 +12,8 @@ It dives in on how to use the <b>vim</b> text editor.
 I use this as a cheatsheet whenever I'm using the linux terminal!
 It's pretty convenient and gives the brief explanation for each basic commands.
 https://www.youtube.com/watch?v=-HycpQEFESY
+
+<h2>Week 02</h2>
 * [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4&pp=ygUObGludXggZmlyZXNoaXA%3D) ---
 Cool quick video about linux.
 Made me understand more about what is linux and why is linux.
@@ -19,7 +22,15 @@ More history about linux by Fireship.
 Love these kind of videos, that gave me a better understanding between what is linux and what is debian as a distro.
 
 <h2>Week 03</h2>
+* [Linux 101: How to use the mount command](https://www.youtube.com/watch?v=-HycpQEFESY) ---
+A quick 2 minute introduction video about mount command. Gives me a quick explanation about mounting and what is it for.
 * [Mounting and Unmounting Disks/Partition](https://www.youtube.com/watch?v=F-a_BBAGfkE) ---
 This video tells me more about mounting and unmounting that I've done on WEEK03's assignment. It gives a good explanation regarding mounting and it's commands like mount with -t option, mount with -o options, etc.
+
+<h2>Week 04</h2>
+* [The mind behind Linux | Linus Torvalds | TED](https://www.youtube.com/watch?v=o8NPllzkFhE) ---
+A talkshow make by TED with Linus Torvalds as the maker of Linux and Git. It shows how a person like Linus works and thinks, an interesting video to show the history of how Linux was humbly made just for a project by Linus and unexpectedly blown up by people finding it super useful and help him building the project.
+* [Memory Management](https://www.youtube.com/watch?v=UDPYpf-nsDY) ---
+Video by Tutorialspoint that describes how memory management works in operating system, including address binding, etc.
 <br>
 <hr>
