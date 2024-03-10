@@ -13,3 +13,4 @@ ZCZC W02 20 L04 Added some more links to links.md
 ZCZC W03 40 L13 Completing Assignment #03
 ZCZC W04 110 L02 Offline Class
 ZCZC W04 50 L14 Completing Assignment #04
+ZCZC W05 90 L15 Completing Assignment #05 and Pop Quiz

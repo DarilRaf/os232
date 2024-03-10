@@ -32,5 +32,12 @@ This video tells me more about mounting and unmounting that I've done on WEEK03'
 A talkshow make by TED with Linus Torvalds as the maker of Linux and Git. It shows how a person like Linus works and thinks, an interesting video to show the history of how Linux was humbly made just for a project by Linus and unexpectedly blown up by people finding it super useful and help him building the project.
 * [Memory Management](https://www.youtube.com/watch?v=UDPYpf-nsDY) ---
 Video by Tutorialspoint that describes how memory management works in operating system, including address binding, etc.
+
+<h2>Week 05</h2>
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) ---
+Quick short video about Linux Directories. It gave me a more understanding about how and why are some folder is in the linux directories itself.
+* [How to check memory on Debian Linux](https://www.cyberciti.biz/faq/how-to-check-memory-debian-linux/) ---
+This article gave us a general guide on how to check on free and used memory on Debian through command line. Since this week's assignment is about how memory usage limitation could give a difficulty for debian to start up it's system. I got curious about the memory system on debian and found out this article.
+
 <br>
 <hr>
