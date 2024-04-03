@@ -39,5 +39,11 @@ Quick short video about Linux Directories. It gave me a more understanding about
 * [How to check memory on Debian Linux](https://www.cyberciti.biz/faq/how-to-check-memory-debian-linux/) ---
 This article gave us a general guide on how to check on free and used memory on Debian through command line. Since this week's assignment is about how memory usage limitation could give a difficulty for debian to start up it's system. I got curious about the memory system on debian and found out this article.
 
+<h2>Week 06</h2>
+* [fork() and memory shared b/w processes created using it](https://www.geeksforgeeks.org/fork-memory-shared-bw-processes-created-using/) ---
+A GeeksForGeeks explanation about fork method in C, where it could help understand on how fork and memory works using C language.
+* [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74) ---
+Video-wise explanation about shared memory system on operation system.
+
 <br>
 <hr>
