@@ -45,5 +45,11 @@ A GeeksForGeeks explanation about fork method in C, where it could help understa
 * [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74) ---
 Video-wise explanation about shared memory system on operation system.
 
+<h2>Week 07</h2>
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+A GeeksForGeeks explanation about synchronization process in operating systems. Also talks about race condition etc.
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) ---
+Video explanation from Neso Academy about process synchronization.
+
 <br>
 <hr>
