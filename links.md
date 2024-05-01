@@ -51,5 +51,11 @@ A GeeksForGeeks explanation about synchronization process in operating systems. 
 * [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y) ---
 Video explanation from Neso Academy about process synchronization.
 
+<h2>Week 08</h2>
+* [Linux From Scratch](https://lfs.mirrors.hoobly.com/lfs/view/12.1/index.html) ---
+A full guided linux from scratch tutorial to create linux on our own operation system.
+* [Linux From Scratch Youtube Tutorial](https://www.youtube.com/watch?v=685qdaX9YQc) ---
+A video version guide on how to do linux from scratch
+
 <br>
 <hr>
