@@ -17,3 +17,4 @@ ZCZC W05 90 L15 Completing Assignment #05 and Pop Quiz
 ZCZC W06 90 L16 Completing Assignment #06 and Pop Quiz
 ZCZC W07 90 L17 Completing Assignment #07 and Pop Quiz
 ZCZC W08 90 L18 Completing Assingment #08
+ZCZC W09 180 L19 Completing Assignment #09

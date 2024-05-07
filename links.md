@@ -57,5 +57,13 @@ A full guided linux from scratch tutorial to create linux on our own operation s
 * [Linux From Scratch Youtube Tutorial](https://www.youtube.com/watch?v=685qdaX9YQc) ---
 A video version guide on how to do linux from scratch
 
+<h2>Week 09</h2>
+* [9. Chapter 6: Cross-Compiling Temporary Tools](https://youtu.be/A51L_e6s7TI?si=WCp8dUkYZIm_bzrs) ---
+This video helps me a lot on guiding me troughout the building of LFS, 
+and also gave me the expected output so that I knew if anything foes wrong.
+* [10. Chapter 7: Entering Chroot and Building Additional Temporary Tools](https://youtu.be/6r-2qCOPtLg?si=20POnY3mSi8Lr5cI) ---
+Follow up video for chapter 7, also gives the clear explanation that helps me know when something goes wrong.
+I did got some errors, and could finally resolved it with some external sources plus this video.
+
 <br>
 <hr>
